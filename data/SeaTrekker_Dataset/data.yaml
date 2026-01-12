@@ -1,0 +1,13 @@
+train: /home/ubu/Desktop/Yolo-Train/data/SeaTrekker_Dataset/train/images
+val: /home/ubu/Desktop/Yolo-Train/data/SeaTrekker_Dataset/valid/images
+test: /home/ubu/Desktop/Yolo-Train/data/SeaTrekker_Dataset/test/images
+
+nc: 1
+names: ['Cans']
+
+roboflow:
+  workspace: hehee-cd5nm
+  project: part-3-4-5-7-ayan
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/hehee-cd5nm/part-3-4-5-7-ayan/1
